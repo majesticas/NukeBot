@@ -13,7 +13,7 @@ NukeBot is a Discord bot built for **educational purposes only**. It allows you 
 
 - Delete all channels and roles in the server.
 - Ban all members the bot has permission to ban (except whitelisted users).
-- Create 50 new channels named `nuked-by-majestic` (can be changed).
+- Create 100 new channels named `nuked-by-majestic` (can be changed).
 - Customizable messages sent to the new channels.
 - Handles tasks with proper concurrency control to avoid exceeding request limits.
 
